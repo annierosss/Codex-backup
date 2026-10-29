@@ -1,0 +1,7 @@
+work/
+outputs/
+PROJECT_MEMORY.md
+.env*
+*.dpapi
+*.log
+__pycache__/
